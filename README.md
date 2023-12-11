@@ -11,6 +11,10 @@ Get the X and Y position of the current active window by pressing a keybind.
 * Configure keybind to close the application
 
 ![Screenshot 2023-12-11 093847](https://github.com/MilkyBoiVR/Window-Mouse-Position/assets/111146381/e4e8158f-0e46-4392-8453-a8445313a7c4)
+
+## **TUTORIAL**
+
+Tutorial: https://youtu.be/vg5C86ulE_E
  
 ## **INSTRUCTIONS**
 
@@ -24,3 +28,4 @@ Get the X and Y position of the current active window by pressing a keybind.
 ## **HELP**
 
 If you need any support, please contact @milkyboivr on Discord
+Tutorial: https://youtu.be/vg5C86ulE_E
