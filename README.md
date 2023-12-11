@@ -16,7 +16,7 @@ Get the X and Y position of the current active window by pressing a keybind.
 
 1. Download Python (and add to PATH) https://www.python.org/downloads/windows/
 2. Download WindowMousePosition from releases or green button
-3. Extract the ZIP file ```WMP```
+3. Extract the ZIP file
 4. On the file explorer address bar type ```cmd``` and in the terminal enter ```pip install -r requirements.txt```
 5. Open ```WindowMousePosition.py``` in notepad and edit desired keybinds (changes you can make are marked with #)
 6. Run ```WindowMousePosition.py```
