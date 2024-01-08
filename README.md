@@ -10,7 +10,7 @@ Get the X and Y position of the current active window by pressing a keybind.
 * Configure keybind to capture the position into the terminal
 * Configure keybind to close the application
 
-![Screenshot 2023-12-11 093847](https://github.com/MilkyBoiVR/Window-Mouse-Position/assets/111146381/e4e8158f-0e46-4392-8453-a8445313a7c4)
+![Screenshot 2024-01-08 140923](https://github.com/MilkyBoiVR/Window-Mouse-Position/assets/111146381/c005b2a0-727b-465f-9d53-c3af4afbba3e)
 
 ## **TUTORIAL**
 
